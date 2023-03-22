@@ -31,7 +31,7 @@ video {
 #play-pause-button {
   font-size: 5em;
   cursor: pointer;
-  margin-left: -0px;
+  margin-left: 13px;
   position: absolute;
 
 }
@@ -43,8 +43,8 @@ video {
 
 .boton-redondo{
   position: absolute;
-  width: 125px;
-  height: 125px;
+  width: 0px;
+  height: 0px;
   border-radius: 100px;
   margin-top: -199px;
   margin-left: 290px;

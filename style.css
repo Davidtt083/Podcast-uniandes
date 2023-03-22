@@ -1,5 +1,5 @@
 body {
-height: 200px;
+
 }
 
 .very-specific-design {
@@ -49,4 +49,12 @@ video {
   margin-top: -199px;
   margin-left: 290px;
   background-color: rgb(255, 255, 255);
+  }
+
+  .titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: left !important; 
+    margin-top: 192px;
+    width: 80%;
+    margin-left: 10%;
   }
